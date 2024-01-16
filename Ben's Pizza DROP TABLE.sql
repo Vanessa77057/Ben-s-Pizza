@@ -1,0 +1,11 @@
+USE Pizza;
+DROP TABLE orders;
+DROP TABLE customers;
+DROP TABLE address;
+DROP TABLE item;
+DROP TABLE ingredient;
+DROP TABLE recipe;
+DROP TABLE inventory;
+DROP TABLE staff;
+DROP TABLE rota;
+DROP TABLE shift;
